@@ -161,7 +161,7 @@ const App = () => {
         <p style={{ color: 'red' }}>
           Input must be between 1 and 3999.{" "}
           <a 
-            href="#"
+            href="https://www.google.com"
             onClick={(e) => { 
               e.preventDefault(); 
               setLimitlessMode(true); 
