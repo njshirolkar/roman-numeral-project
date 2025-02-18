@@ -58,6 +58,10 @@ The backend is a **Node.js API** that handles conversion logic, logging, metrics
      ```
     npm run start
     ```
+4. Run tests:
+    ```
+    npm test
+    ```
 
 ### **Running with Docker (recommended)**
 1. Build the Docker image:
